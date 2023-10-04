@@ -1,0 +1,22 @@
+div {
+    margin: 2px;
+    padding: 5px;
+}
+
+.post {
+    border: 2px solid red;
+}
+
+.comment {
+    border: 2px dashed blueviolet;
+}
+
+p {
+    margin: 0 0 0.2rem 0;
+}
+
+button {
+    background-color: rgb(236, 218, 49);
+    padding: 4px;
+    color: red;
+}
